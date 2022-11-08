@@ -14,3 +14,15 @@
 ## VIM/Gamification Idea
 - https://en.wikipedia.org/wiki/Gamification
 - https://www.gamify.com/what-is-gamification
+
+
+## Auto-generation
+- Ease of use to generate content
+- Give parameters for the auto-gen. Number of people. Size of area. Desks etc...
+
+## Visualisation of data
+- More info on the trail renderer e.g. colour code for speed
+
+## Meaurement of effectiveness
+- What are the stats at the end of a simulation going to look like.
+
